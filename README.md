@@ -1,4 +1,4 @@
-# HR-estimation-based-learning
+# HR-estimation-learning-based
 HR estimation using machine learning in ETRI
 
 reference meta-rPPG
